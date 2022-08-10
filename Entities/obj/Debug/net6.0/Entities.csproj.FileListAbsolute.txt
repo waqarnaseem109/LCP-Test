@@ -1,0 +1,12 @@
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/bin/Debug/net6.0/Entities.deps.json
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/bin/Debug/net6.0/Entities.dll
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/bin/Debug/net6.0/Entities.pdb
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/obj/Debug/net6.0/Entities.dll
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/obj/Debug/net6.0/refint/Entities.dll
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/obj/Debug/net6.0/Entities.pdb
+/Users/waqar/Projects/LCP-Pulse-Test/Entities/obj/Debug/net6.0/ref/Entities.dll

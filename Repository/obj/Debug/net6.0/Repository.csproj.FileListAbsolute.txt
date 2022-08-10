@@ -1,0 +1,17 @@
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/bin/Debug/net6.0/Repository.deps.json
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/bin/Debug/net6.0/Repository.dll
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/bin/Debug/net6.0/Repository.pdb
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/bin/Debug/net6.0/Contracts.dll
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/bin/Debug/net6.0/Entities.dll
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/bin/Debug/net6.0/Entities.pdb
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/bin/Debug/net6.0/Contracts.pdb
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/obj/Debug/net6.0/Repository.csproj.AssemblyReference.cache
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/obj/Debug/net6.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/obj/Debug/net6.0/Repository.AssemblyInfoInputs.cache
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/obj/Debug/net6.0/Repository.AssemblyInfo.cs
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/obj/Debug/net6.0/Repository.csproj.CoreCompileInputs.cache
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/obj/Debug/net6.0/Repository.csproj.CopyComplete
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/obj/Debug/net6.0/Repository.dll
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/obj/Debug/net6.0/refint/Repository.dll
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/obj/Debug/net6.0/Repository.pdb
+/Users/waqar/Projects/LCP-Pulse-Test/Repository/obj/Debug/net6.0/ref/Repository.dll

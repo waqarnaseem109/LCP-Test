@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/waqar/Projects/LCP-Pulse-Test/LCP-Pulse-Test/LCP-Pulse-Test.csproj": {}
+  },
+  "projects": {
+    "/Users/waqar/Projects/LCP-Pulse-Test/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/waqar/Projects/LCP-Pulse-Test/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/Users/waqar/Projects/LCP-Pulse-Test/Contracts/Contracts.csproj",
+        "packagesPath": "/Users/waqar/.nuget/packages/",
+        "outputPath": "/Users/waqar/Projects/LCP-Pulse-Test/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/waqar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/waqar/Projects/LCP-Pulse-Test/Entities/Entities.csproj": {
+                "projectPath": "/Users/waqar/Projects/LCP-Pulse-Test/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/waqar/Projects/LCP-Pulse-Test/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/waqar/Projects/LCP-Pulse-Test/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/waqar/Projects/LCP-Pulse-Test/Entities/Entities.csproj",
+        "packagesPath": "/Users/waqar/.nuget/packages/",
+        "outputPath": "/Users/waqar/Projects/LCP-Pulse-Test/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/waqar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/waqar/Projects/LCP-Pulse-Test/LCP-Pulse-Test/LCP-Pulse-Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/waqar/Projects/LCP-Pulse-Test/LCP-Pulse-Test/LCP-Pulse-Test.csproj",
+        "projectName": "LCP-Pulse-Test",
+        "projectPath": "/Users/waqar/Projects/LCP-Pulse-Test/LCP-Pulse-Test/LCP-Pulse-Test.csproj",
+        "packagesPath": "/Users/waqar/.nuget/packages/",
+        "outputPath": "/Users/waqar/Projects/LCP-Pulse-Test/LCP-Pulse-Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/waqar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/waqar/Projects/LCP-Pulse-Test/Repository/Repository.csproj": {
+                "projectPath": "/Users/waqar/Projects/LCP-Pulse-Test/Repository/Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/waqar/Projects/LCP-Pulse-Test/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/waqar/Projects/LCP-Pulse-Test/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/Users/waqar/Projects/LCP-Pulse-Test/Repository/Repository.csproj",
+        "packagesPath": "/Users/waqar/.nuget/packages/",
+        "outputPath": "/Users/waqar/Projects/LCP-Pulse-Test/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/waqar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/waqar/Projects/LCP-Pulse-Test/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/waqar/Projects/LCP-Pulse-Test/Contracts/Contracts.csproj"
+              },
+              "/Users/waqar/Projects/LCP-Pulse-Test/Entities/Entities.csproj": {
+                "projectPath": "/Users/waqar/Projects/LCP-Pulse-Test/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

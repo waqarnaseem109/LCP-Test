@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{5DFDA346-C8E4-4185-B426-956A69F9BE50}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LCP-Pulse-Test/appsettings.json">
+    <Files>
+      <File FileName="Repository/ClientRepository.cs" Line="12" Column="10" />
+      <File FileName="Contracts/IClientRepository.cs" Line="8" Column="1" />
+      <File FileName="../../Downloads/Dostana/Repository/CounsellingRegisters/CounsellingRegisterRepository.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/Dostana/Repository/User/UserRepository.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/Dostana/Contracts/IUserRepository.cs" Line="1" Column="1" />
+      <File FileName="LCP-Pulse-Test/Controllers/ClientController.cs" Line="94" Column="71" />
+      <File FileName="LCP-Pulse-Test/Program.cs" Line="31" Column="1" />
+      <File FileName="Repository/RepositoryBase.cs" Line="30" Column="50" />
+      <File FileName="Contracts/IRepositoryBase.cs" Line="12" Column="14" />
+      <File FileName="../../Downloads/Dostana/Dostana.WebAPI/Controllers/CounsellingRegister/CounsellingRegisterController.cs" Line="1" Column="1" />
+      <File FileName="Repository/RepositoryWrapper.cs" Line="35" Column="2" />
+      <File FileName="LCP-Pulse-Test/appsettings.json" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LCP-Pulse-Test" expanded="True">
+            <Node name="LCP-Pulse-Test" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LCP-Pulse-Test PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/waqar/Projects/TravelUp/TravelUp/Controllers/CustomerPricingController.cs" line="65" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
